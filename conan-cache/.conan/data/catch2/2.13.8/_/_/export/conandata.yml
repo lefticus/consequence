@@ -1,0 +1,4 @@
+sources:
+  2.13.8:
+    sha256: b9b592bd743c09f13ee4bf35fc30eeee2748963184f6bea836b146e6cc2a585a
+    url: https://github.com/catchorg/Catch2/archive/v2.13.8.tar.gz

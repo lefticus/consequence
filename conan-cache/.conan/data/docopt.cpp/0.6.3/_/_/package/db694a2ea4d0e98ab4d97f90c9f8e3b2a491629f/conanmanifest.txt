@@ -1,0 +1,10 @@
+1647714043
+conaninfo.txt: 54c07093f5f3eaabe9bfa23917f901b9
+include/docopt/docopt.h: f560339d11a5854c87fa84d08f2d1eae
+include/docopt/docopt_private.h: 84d313eda92d32936af83cb6cd5edac6
+include/docopt/docopt_util.h: c6a4855a74876f9db0032f7733af1908
+include/docopt/docopt_value.h: 0a0ac789b53bcfbfd83fb9fa88f8fe2f
+lib/cmake/conan-official-docopt.cpp-targets.cmake: 42293cfc83038286709b000828d53c04
+lib/libdocopt.a: 4f7aad8cb4bcfe3ba219a736fa72fbad
+licenses/LICENSE-Boost-1.0: e4224ccaecb14d942c71d31bef20d78c
+licenses/LICENSE-MIT: 4b242fd9ef20207e18286d73da8a6677

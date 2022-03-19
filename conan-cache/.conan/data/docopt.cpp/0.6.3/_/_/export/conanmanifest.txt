@@ -1,0 +1,6 @@
+1642540532
+conandata.yml: 8b83bbe51ab6a771b6ded3b95402e2c2
+conanfile.py: 3a33a4da854ad571c4e1c78c520dcbbb
+export_source/CMakeLists.txt: bd2e0c766a60566ef6a02eb454730de2
+export_source/patches/cmake-library-0.6.3.patch: cb0c27f8097ef070dbdd195bf72f955e
+export_source/patches/msvc-dll-export-0.6.3.patch: 01beea8130bfd0873ed29799606aac31

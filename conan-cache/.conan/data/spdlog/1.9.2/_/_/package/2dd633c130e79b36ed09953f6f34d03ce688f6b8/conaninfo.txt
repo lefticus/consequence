@@ -1,0 +1,51 @@
+[settings]
+    arch=x86_64
+    build_type=Debug
+    compiler=gcc
+    compiler.cppstd=20
+    compiler.libcxx=libstdc++11
+    compiler.version=11
+    os=Linux
+
+[requires]
+    fmt/8.Y.Z
+
+[options]
+    fPIC=True
+    header_only=False
+    no_exceptions=False
+    shared=False
+    wchar_filenames=False
+    wchar_support=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Debug
+    compiler=gcc
+    compiler.cppstd=20
+    compiler.libcxx=libstdc++11
+    compiler.version=11
+    os=Linux
+
+[full_requires]
+    fmt/8.0.1:48237e0a44a4da38363eec0f7583e91a1b7090b0
+
+[full_options]
+    fPIC=True
+    header_only=False
+    no_exceptions=False
+    shared=False
+    wchar_filenames=False
+    wchar_support=False
+    fmt:fPIC=True
+    fmt:header_only=False
+    fmt:shared=False
+    fmt:with_fmt_alias=False
+    fmt:with_os_api=True
+
+[recipe_hash]
+    82c528536f957cf58a5f0ca07622d125
+
+[env]
+    CC=/usr/bin/gcc-11
+    CXX=/usr/bin/g++-11

@@ -1,0 +1,11 @@
+1645551680
+conaninfo.txt: c181d70826919145eb99031e3cb729ef
+include/catch2/catch.hpp: e45f70693208dca2b6813a078e3e64eb
+include/catch2/catch_reporter_automake.hpp: fa7f1624819a1253f246572ba323355d
+include/catch2/catch_reporter_sonarqube.hpp: 9f1b0558da2c228e4ce86320d6d5d67d
+include/catch2/catch_reporter_tap.hpp: 15b774316a9d0b8b3f6ad91f21b06b22
+include/catch2/catch_reporter_teamcity.hpp: cdc89253b7605a9799f009ab8f9457eb
+lib/cmake/Catch2/Catch.cmake: 17e96b8aa197533b5f45e13cd0007e37
+lib/cmake/Catch2/CatchAddTests.cmake: fe65991049fc6e29558047b6491e8d7a
+lib/cmake/Catch2/ParseAndAddCatchTests.cmake: 20200f8bbd7cd5d15b990143c6202622
+licenses/LICENSE.txt: e4224ccaecb14d942c71d31bef20d78c

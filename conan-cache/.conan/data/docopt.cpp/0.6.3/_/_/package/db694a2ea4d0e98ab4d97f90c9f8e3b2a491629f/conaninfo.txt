@@ -1,0 +1,40 @@
+[settings]
+    arch=x86_64
+    build_type=Debug
+    compiler=gcc
+    compiler.cppstd=20
+    compiler.libcxx=libstdc++11
+    compiler.version=11
+    os=Linux
+
+[requires]
+
+
+[options]
+    boost_regex=False
+    fPIC=True
+    shared=False
+
+[full_settings]
+    arch=x86_64
+    build_type=Debug
+    compiler=gcc
+    compiler.cppstd=20
+    compiler.libcxx=libstdc++11
+    compiler.version=11
+    os=Linux
+
+[full_requires]
+
+
+[full_options]
+    boost_regex=False
+    fPIC=True
+    shared=False
+
+[recipe_hash]
+    0ecbcbdb84de9c58c5ded399aa9f17ef
+
+[env]
+    CC=/usr/bin/gcc-11
+    CXX=/usr/bin/g++-11

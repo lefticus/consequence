@@ -1,0 +1,5 @@
+1645537120
+conandata.yml: f123bee122172d321c01dd2ea0dcd04c
+conanfile.py: 01398c7db5a0b9c7b18df6b4d09ae0e8
+export_source/CMakeLists.txt: 19b827009672d92f94b692e4b0854323
+export_source/patches/abs-static-cast.patch: 0223fcab1f18b016228a96a43d649af1
